@@ -1,5 +1,26 @@
 = Quickstart Template for  VueJS + SpringBoot
-== Quickstart confiuration for VueJS and SpringBoot Project
+
+===Quickstart confiuration for VueJS and SpringBoot Project
 
 This is a template to quickly start the development of a springBoot
 application using Vue.JS for the frontend
+
+=== INSTALLATION
+
+To install and run this project follow these steps:
+
+. Clone this repository
+
+. Install Gradle Dependency
+
+
+In the build.gradle file are the various properties which have been
+preconfigured to compile the application seen with springBoot.
+
+
+You can start to develop your Spring boot REST API
+and your frontend with this template directly without worrying.
+
+To create the jar file use the command: *gradle clean build*
+
+image:/hello.png?raw=true[home page image]
