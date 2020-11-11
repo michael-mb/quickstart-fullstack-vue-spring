@@ -1,6 +1,6 @@
 = Quickstart Template for  VueJS + SpringBoot
 
-=== Quickstart confiuration for VueJS and SpringBoot Project
+=== Quickstart configuration for VueJS and SpringBoot Project
 
 This is a template to quickly start the development of a springBoot
 application using Vue.JS for the frontend
